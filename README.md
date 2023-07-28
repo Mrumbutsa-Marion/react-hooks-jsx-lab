@@ -6,6 +6,7 @@
 
 ## Instructions
 
+
 In this lab, we will be rendering a few children components in our top-most
 component: `App`. The components are set up, but we need to update the JSX they
 return. We'll be writing all our code in the `NavBar.js`, `Home.js`, and
